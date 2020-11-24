@@ -1,5 +1,5 @@
 # User-Directory  
-![User-Directory](directory.jpg)
+![User-Directory](directory.png)
 
 Please visit the deployed site: https://caitlinritawhite.github.io/User-Directory/  
 
